@@ -1,4 +1,5 @@
-### General Disease Prediction based on symptoms provided by patient- powered by Django & Machine Learning
+### General Disease Prediction System | Django & Machine Learning
+## Developed a web-based doctor-patient consultation platform featuring secure profile management and intelligent disease prediction. Leveraging machine learning models trained on 132 symptoms mapped to 40 potential diseases, the system empowers users with preliminary diagnosis insights based on their input. Built using Django for backend scalability and security, the platform enhances accessibility to healthcare guidance through an intuitive user interface and reliable prediction engine.
 
 
 # How To Use This
